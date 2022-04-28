@@ -17,6 +17,7 @@ versions:
 topics:
   - Identity
   - Access management
+  - app tokens
 shortTitle: Create a PAT
 ---
 
