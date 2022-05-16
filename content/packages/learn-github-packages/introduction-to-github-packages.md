@@ -12,9 +12,9 @@ redirect_from:
   - /packages/guides/about-github-container-registry
 versions:
   fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+  ghes: '**'
+  ghae: '***'
+  ghec: '****'
 shortTitle: Introduction
 ---
 
